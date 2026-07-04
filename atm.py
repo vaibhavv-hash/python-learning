@@ -5,7 +5,6 @@ while True:
     print("2. Deposit")
     print("3. Withdraw")
     print("4. Exit")
-    print("5. Reset balance")
     choice = int(input("Choose : "))
     if choice == 4:
         print("Thank you for using ATM")
